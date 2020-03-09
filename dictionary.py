@@ -1,0 +1,1 @@
+d = {"I":"yo", "have":"tengo", "a":"un", "friend":"amigo", "Romania":"Rumania", "from":"de", "good":"buen","who":"que","is":"es", "what": "que", "his":"su", "name":"nombre", "Bogdan":"Bogdan", "and":"y", "teaching":"enseñando", "to":"a", "programming":"programar", "in":"en", "Phyton":"Phyton", "well":"bien", "really":"muy", "me":"a mi"}
